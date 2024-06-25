@@ -1,6 +1,6 @@
 # Olá! Meu nome é Suelen 
 
-## Estudante de analise e desenvolvimento de sistemas na Universidade Paulista, desejo me desenvolver com foco em Computação em Nuvem, Devops e Observabilidade.
+Estudante de analise e desenvolvimento de sistemas na Universidade Paulista, desejo me desenvolver com foco em Computação em Nuvem, Devops e Observabilidade.
 
 Sou apaixonada por tecnologia e estou sempre em busca de aprimorar minhas habilidades tenho interesse e busco conhecimentos no campo da computação em nuvem e monitoramento de sistemas. Tenho um forte compromisso com o aprendizado contínuo, participando de cursos em busca de sempre estar me desenvolvendo.
 
